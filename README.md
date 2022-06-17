@@ -7,7 +7,7 @@ Developed for prototype/testing in the [RoboDog Project](https://www.youtube.com
 - Python 3.8+
 - pip install opencv-contrib-python (currently using 4.6.0)
 
-# How it works
+# How It Works
 ## Object Tracking
 ![](https://github.com/AustinOwens/documentation/blob/master/zed_cam_stereo_vision/Machine_Vision_Demo_Part_1.gif)
 
