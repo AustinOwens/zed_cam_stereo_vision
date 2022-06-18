@@ -5,7 +5,7 @@ Developed for prototype/testing in the [RoboDog Project](https://www.youtube.com
 
 # Dependancies
 - Python 3.8+
-- pip install opencv-contrib-python (currently using 4.6.0)
+- pip install opencv-contrib-python #(currently using 4.6.0)
 
 # How It Works
 ## Object Tracking
